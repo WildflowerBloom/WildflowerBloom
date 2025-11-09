@@ -13,6 +13,17 @@
 - `docs/architecture.md`: high-level component breakdown and roadmap.
 - `docs/data-state-flow.md`: detailed data/state interactions for each loop.
 - `docs/adaptive-mode-engine.md`: mode taxonomy, feature inputs, and configuration strategy.
+- `docs/product-spec.md`: product vision, personas, success metrics.
+- `docs/persona-journeys.md`: emotional experience maps for key users.
+- `docs/database-schema.md`: SQLite schema and retention plan.
+- `docs/api-contracts.md`: interface contracts for modules + future HTTP API.
+- `docs/prompt-design.md`: tone guidelines, template skeletons, safety rules.
+- `docs/ui-design.md`: screen blueprints, interaction states, accessibility choices.
+- `docs/testing-strategy.md`: validation layers, acceptance criteria.
+- `docs/implementation-roadmap.md`: milestone breakdown and task plan.
+- `docs/backlog.md`: prioritized user stories and technical tasks.
+- `docs/ops-and-security.md`: operations, privacy, and safety runbook.
+- `docs/development-setup.md`: environment setup and tooling cheatsheet.
 - Python package scaffold lives under `src/navi/` with modules for orchestration, adaptive engine, clarity AI, memory, LLM integration, task translation, anchors, scheduler, and Gradio UI.
 - Launch locally with:
 
